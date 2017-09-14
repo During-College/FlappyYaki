@@ -21,3 +21,5 @@ https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
 After it has been installed, please make sure the FlappyYaki folder is unzipped and
 then proceed to run "FlappyYaki.exe" (Application) to play the game.
+
+Press 'Space' to start and jump
