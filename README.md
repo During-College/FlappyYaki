@@ -23,3 +23,7 @@ After it has been installed, please make sure the FlappyYaki folder is unzipped 
 then proceed to run "FlappyYaki.exe" (Application) to play the game.
 
 Press 'Space' to start and jump
+
+A video preview of the game can be found here:
+
+https://youtu.be/U_7ieoD050I
